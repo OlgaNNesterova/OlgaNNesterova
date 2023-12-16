@@ -5,12 +5,7 @@
 - :mortar_board: Successfully completed and received a passing grade in the Data analyst course of Karpov.courses
 - :memo: I know how to get a conclusion from scattered data
 - :earth_asia: I know how to calculate the cost of anything
- 
-  
-<a href="https://t.me/OlyiaNesterova">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-  
+<br>
 
 
 #### :hammer_and_wrench: Languages and tools
